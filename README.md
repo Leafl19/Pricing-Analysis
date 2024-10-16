@@ -67,6 +67,9 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
 - Electronics: Highest Total Gross Sales (49,743,502.50)
 - Beauty and Health: Highest Avg Gross Amount (3038.90) 
 - **Insights**: Electronics and Clothing are high-performing categories, with substantial total sales. Beauty and Health maintain a higher average price, indicating a premium strategy. Discounts applied across categories show varied effects, with some categories more responsive than others.
+
+![Category Price Wise](https://github.com/user-attachments/assets/c63f857c-a110-4412-97ab-358c57b5e2dc)
+
  
 ## Recommendations for Overall Analysis
 - Leverage Effective Discounts: Discounts like NEWYEARS and SEASONALOFFER21 were the most effective. Consider using these types of offers more frequently to maintain customer engagement
