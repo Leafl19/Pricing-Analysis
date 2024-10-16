@@ -1,4 +1,4 @@
-## E-Com Pricing Analysis
+## E-Comm Pricing Analysis
 
 
 ## Project Objective
