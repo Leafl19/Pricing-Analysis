@@ -1,4 +1,4 @@
-## Pricing Analyst
+## E-Com Pricing Analysis
 
 
 ## Project Objective
