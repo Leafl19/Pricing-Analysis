@@ -17,6 +17,7 @@ The objective of this pricing analysis is to explore various factors affecting p
 ## Project Overview and Process 
 I conducted multiple anlaysis to complete this entire analysis, and they were, first i wanted to find out how gross and ent prices vary across products, than after that i wante dto compare sales with and without discounts to see how they affected sales volume and net revenue, Next I went and determined how price changes influenced the quantity sold and overall revenue, I also went a analyzed if there was any changes in pricing by the diffrent months and specific day of thw week and finally i wanted to understand how diffrent product categories varied in the pricing strategy also with discounts. 
 
+![Gross amount before discount](https://github.com/user-attachments/assets/3841b0f6-31e8-4f32-a467-d292f56f84d4)
 
 ## Price Distribution Analysis
 
