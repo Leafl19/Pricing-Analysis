@@ -57,6 +57,9 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
  - Highest Gross Amount by Day: Wednesday
 -	**Insights**: There are clear patterns in gross amounts based on month and day, with spikes during December and midweek. This suggests the possibility of seasonal and day-based pricing strategies to maximize sales.
 
+![Price Trends By Month](https://github.com/user-attachments/assets/06d977da-6d38-42ea-9154-edb5e527ef31)
+
+
 ## Category-Wise Price Analysis
 
  Calculations:
