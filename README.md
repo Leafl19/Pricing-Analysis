@@ -11,7 +11,9 @@ The objective of this pricing analysis is to explore various factors affecting p
 
  - dplyr for data manipulation and summarization.
 
- - Tableau for dashboard visualizations.
+ - Tableau for dashboard visualizations
+   [Dashboard 1](https://public.tableau.com/app/profile/leaf.lewis1752/viz/Book1_17291006094040/Dashboard1?publish=yes)
+   [Dashboard 2](https://public.tableau.com/app/profile/leaf.lewis1752/viz/Book1_17291006094040/Dashboard2?publish=yes)
  
 
 ## Project Overview and Process 
