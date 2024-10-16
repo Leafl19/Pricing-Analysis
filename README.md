@@ -39,6 +39,9 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
 - Total Sales (with discount): 75,053,170.40
 - **Insights**: Discounts lead to slightly lower net amounts but do not significantly affect the gross amount. Sales volume remains consistent, indicating that discounts drive customer engagement without heavily impacting overall revenue.
 
+
+![Discount Impact](https://github.com/user-attachments/assets/8c789445-971f-47d0-93a7-25bd8a57af36)
+
 ## Price Elasticity Analysis
 
  Calculations:
