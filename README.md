@@ -17,7 +17,6 @@ The objective of this pricing analysis is to explore various factors affecting p
 ## Project Overview and Process 
 I conducted multiple anlaysis to complete this entire analysis, and they were, first i wanted to find out how gross and ent prices vary across products, than after that i wante dto compare sales with and without discounts to see how they affected sales volume and net revenue, Next I went and determined how price changes influenced the quantity sold and overall revenue, I also went a analyzed if there was any changes in pricing by the diffrent months and specific day of thw week and finally i wanted to understand how diffrent product categories varied in the pricing strategy also with discounts. 
 
-![Gross amount before discount](https://github.com/user-attachments/assets/3841b0f6-31e8-4f32-a467-d292f56f84d4)
 
 ## Price Distribution Analysis
 
@@ -26,6 +25,12 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
 - Average Gross Amount(Before Discount): 3012.94
 - Average Net Amount(After Discount: 2875.95
 -	Insights: The distribution of gross and net amounts shows a shift after discounts, but both maintain similar ranges. Outliers are present, indicating potential premium or low-cost products.
+
+![Gross amount before discount](https://github.com/user-attachments/assets/3841b0f6-31e8-4f32-a467-d292f56f84d4)
+
+
+![Net amount after discount](https://github.com/user-attachments/assets/d6cf5fae-0d82-412f-b824-2cb4cc4c8f98)
+
 
 ## Discount Impact Analysis
  Calculations:
