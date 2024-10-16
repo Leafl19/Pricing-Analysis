@@ -59,6 +59,7 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
 
 ![Price Trends By Month](https://github.com/user-attachments/assets/06d977da-6d38-42ea-9154-edb5e527ef31)
 
+![Price By DOW](https://github.com/user-attachments/assets/b51316ab-2b5d-4059-bee5-1e973baad5c5)
 
 ## Category-Wise Price Analysis
 
