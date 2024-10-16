@@ -49,6 +49,8 @@ I conducted multiple anlaysis to complete this entire analysis, and they were, f
 - Highest Total Sales: 41,486,316.40 (Price Range: 4000-5000)
 -	**Insights**: Lower price ranges attract more transactions, but higher price ranges generate more revenue. This confirms the price elasticity effect, where lowering prices boosts sales volume, but higher prices result in higher total sales.
 
+![Price Elasticity](https://github.com/user-attachments/assets/7eb992d7-904c-4ad7-bb3c-912293445ba9)
+
 ## Time-Based Pricing Trends
  Calculations:
  - Highest Gross Amount by Month: December
